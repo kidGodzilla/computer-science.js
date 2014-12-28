@@ -5,7 +5,7 @@ function BinaryTree () {} (function () {
         tree: null,
 
         // Temporary container when constructing a sorted array
-        temp: [],
+        _temp: [],
 
         // Insert a new node into the binary tree
         insert: function (value) {
@@ -22,11 +22,11 @@ function BinaryTree () {} (function () {
         toSortedArray: function (direction, root) {
             direction = direction === -1 ? 0 : direction;
             root = root || this.tree;
-            this.temp = [];
-            this._runSequentially(direction, root, function(node, self) {
-                self.temp.push(node.value);
+            this._temp = [];
+            this._runSequentially(direction, root, function(node, tree) {
+                tree._temp.push(node.value);
             });
-            return this.temp;
+            return this._temp;
         },
 
         // Private method: Inserts a new node into a binary tree & returns it

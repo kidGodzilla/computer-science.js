@@ -3,7 +3,7 @@ Computer Science problems in JavaScript
 
 Exploring Computer Science in JavaScript
 
-### Binary Tree
+### Binary Search Tree
 
 Binary search tree implementation including:
 

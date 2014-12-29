@@ -8,8 +8,6 @@ function BinaryTree () {} (function () {
 
         _isBalancing: false,
 
-        _parentNode: null,
-
         // Temporary container when constructing a sorted array
         _temp: [],
 
@@ -120,11 +118,6 @@ function BinaryTree () {} (function () {
 
         search: function (node, cur) {
             cur = cur || this.tree;
-
-            // Remember where we came from!
-            if ((cur.left && cur.left.value === node) || (cur.right &&cur.right.value === node)) {
-                this._parentNode = cur.value;
-            }
 
             if (cur.value === node) {
                 return cur;

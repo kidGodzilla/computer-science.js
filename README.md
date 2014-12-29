@@ -19,5 +19,6 @@ Binary search tree implementation including:
 Demos: 
 
 http://jsbin.com/zogavugase/3/edit?js,console
+
 http://jsbin.com/banoposadi/1/edit?js,console
   

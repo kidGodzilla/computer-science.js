@@ -5,12 +5,19 @@ Exploring Computer Science in JavaScript
 
 ### Binary Tree
 
-Unbalanced binary tree implementation including:
+Binary search tree implementation including:
 
   1. Insert node
   2. Calculate height
   3. Depth-first traversal: Execute a function on each node sequentially (ascending or descending)
   4. Return sorted array of nodes (ascending or descending)
+  5. Independent balancing of an unbalanced tree
+  6. Self-balancing node insertion
+  7. Node removal
+  8. Search and return a specific node
 
-Demo: http://jsbin.com/zogavugase/3/edit?js,console
+Demos: 
+
+http://jsbin.com/zogavugase/3/edit?js,console
+http://jsbin.com/banoposadi/1/edit?js,console
   

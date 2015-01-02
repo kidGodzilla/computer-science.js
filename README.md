@@ -7,6 +7,8 @@ Exploring Computer Science in JavaScript
 
 `binary-search.js`
 
+Demo: http://jsbin.com/cadaqixezo/1/embed?js,console
+
 Fast binary search implemented in JavaScript. Minified and unminified for your reading pleasure.
 
 ### Binary Search Tree
@@ -35,3 +37,5 @@ http://jsbin.com/banoposadi/1/edit?js,console
 `quicksort.js`
 
 Quicksort implemented in JavaScript. 
+
+Demo: http://jsbin.com/xevepicoci/2/embed?js,console

@@ -7,9 +7,9 @@ Exploring Computer Science in JavaScript (James Futhey, 2013-2015).
 
 `binary-search.js`
 
-Demo: http://jsbin.com/cadaqixezo/1/embed?js,console
-
 Fast binary search implemented in JavaScript. Minified and unminified for your reading pleasure.
+
+Demo: http://jsbin.com/cadaqixezo/1/embed?js,console
 
 ### Binary Search Tree
 

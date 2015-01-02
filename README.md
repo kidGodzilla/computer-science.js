@@ -1,7 +1,7 @@
 Computer Science problems in JavaScript
 ===================
 
-Exploring Computer Science in JavaScript
+Exploring Computer Science in JavaScript (James Futhey, 2013-2015). 
 
 ### Binary Search
 

@@ -3,7 +3,15 @@ Computer Science problems in JavaScript
 
 Exploring Computer Science in JavaScript
 
+### Binary Search
+
+`binary-search.js`
+
+Fast binary search implemented in JavaScript. Minified and unminified for your reading pleasure.
+
 ### Binary Search Tree
+
+`binary-tree.js`, `binary-search-tree.js`, `self-balancing-binary-tree.js`
 
 Binary search tree implementation including:
 
@@ -21,4 +29,9 @@ Demos:
 http://jsbin.com/zogavugase/3/edit?js,console
 
 http://jsbin.com/banoposadi/1/edit?js,console
+
+### Quicksort
   
+`quicksort.js`
+
+Quicksort implemented in JavaScript. 

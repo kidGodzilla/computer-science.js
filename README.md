@@ -38,4 +38,12 @@ http://jsbin.com/banoposadi/1/edit?js,console
 
 Quicksort implemented in JavaScript. 
 
-Demo: http://jsbin.com/xevepicoci/2/embed?js,console
+Demo: http://jsbin.com/xevepicoci/2/edit?js,console
+
+### Insertion Sort
+
+`insertion-sort.js`
+
+Insertion sort, implemented in JavaScript.
+
+Demo: http://jsbin.com/zekago/8/edit?js,console

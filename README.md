@@ -47,3 +47,10 @@ Demo: http://jsbin.com/xevepicoci/2/edit?js,console
 Insertion sort, implemented in JavaScript.
 
 Demo: http://jsbin.com/zekago/8/edit?js,console
+
+### Selection Sort
+`selection-sort.js`
+
+Selection sort, implemented in JavaScript.
+
+Demo: http://jsbin.com/mafufi/5/edit?js,console

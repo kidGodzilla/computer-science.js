@@ -1,7 +1,7 @@
 Computer Science problems in JavaScript
 ===================
 
-Exploring Computer Science in JavaScript (James Futhey, 2013-2015). Seeks to cover the content included in most introductory algorithms courses. (<a href="http://steady-wagon-90-133356.usw1-2.nitrousbox.com:4000/#!/javascript/computer-science/">Blog</a>)
+Exploring Computer Science in JavaScript (James Futhey, 2013-2015). Seeks to cover the content included in most introductory algorithms courses. (<a href="http://steady-wagon-90-133356.usw1-2.nitrousbox.com:4000/#!/javascript/computer-science/" target="_blog">Blog</a>)
 
 ### Binary Search
 
